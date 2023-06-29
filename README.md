@@ -1,4 +1,4 @@
-# react-template
+# react-firebase-template
 ### Installation Steps: 
 - clone this repo using :
    ```
