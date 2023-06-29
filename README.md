@@ -18,7 +18,7 @@
   ```
   npm install
   ```
-- Open the `src/config/firebase.ts` file and replace your firebaseConfig from your Firebae console with the blank firebaseConfig already there.
+- Open the `src/config/firebase.ts` file and replace your firebaseConfig from your Firebase console with the blank firebaseConfig already there.
    ```
    import { initializeApp } from 'firebase/app';
    import { getAuth } from 'firebase/auth';
